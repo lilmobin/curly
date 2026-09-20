@@ -29,8 +29,8 @@ window.CURLY_CONFIG = {
   tracks: [
     {
       src:    'assets/music.mp3',
-      title:  'Nightwave',
-      artist: 'M83',
+      title: 'Cinderella (feat. Ty Dolla $ign)',
+      artist: 'Mac Miller',
       cover:  'assets/cover.jpg'
     }
   ],
