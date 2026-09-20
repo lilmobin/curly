@@ -65,5 +65,5 @@ window.CURLY_CONFIG = {
   },
 
   /* ---- PERFORMANCE / VISUALS ------------------------------------------- */
-  maxDPR: 1.5                     // cap for canvas resolution (lower = faster on phones; the engine also lowers it by itself)
+  maxDPR: 1                     // cap for canvas resolution (lower = faster on phones; the engine also lowers it by itself)
 };
